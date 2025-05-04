@@ -39,8 +39,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/FallenAssociation")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/DevilsHeavenMF")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/phonkrayupdates")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/phonkray")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -62,7 +62,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 
 
 # Get your pyrogram v2 session from @StringFatherBot on Telegram
-STRING1 = getenv("STRING_SESSION", None)
+STRING1 = getenv("STRING_SESSION", BQE4sW0AuD_yHtNk9ltEB1avnLgnYgWPLxRrxtTzyAHmDpWR0PQmqWbhklgTlJ-7XbEvskIMDYAcYjfhw-Xa2m4nm4SLiopkNbVf5kpblaOZFMn5RpRU9ZNNC8Z1ZFF9PegYuhqQcQiESulTPnSShiU3a_2_mtQs9voEEgNrTYpz8hujBa5kRodHoR-zwr5w485uyX7OcldHATKgwgCFzCvzAPGL-_iBlEoFYpUHz4QPuJdl4iQ35K491XG-oyXDmG_8SOX4C8umvzWN113BVRo16pierLavFmPvkl8TLKncZjyE2Q5AxEp_AJfBeNl4PQyVpuJ56F9YlhxtHQau7PZxFTxTkwAAAAHQo-bVAA)
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
@@ -78,10 +78,10 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://te.legra.ph/file/25efe6aa029c6baea73ea.jpg"
+    "START_IMG_URL", "https://graph.org/file/23d891bcb4bf014452cbe-ec1e6e0da9f6a730d5.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://te.legra.ph/file/b8a0c1a00db3e57522b53.jpg"
+    "PING_IMG_URL", "https://graph.org/file/aab653db92b77492b99f0-7a5f4b44a0514f8d14.jpg"
 )
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
 STATS_IMG_URL = "https://te.legra.ph/file/e906c2def5afe8a9b9120.jpg"
